@@ -75,6 +75,17 @@
   }
 }
 
+.pdf{
+    float: right;
+
+}
+
+.columna{
+  display: block;
+      width: 48%; 
+    margin: 1%;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -11431,6 +11442,7 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  martgin: 0 auto;
   border: solid 2px #1976D2;
 }
 
